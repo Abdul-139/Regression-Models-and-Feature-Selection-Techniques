@@ -1,1 +1,2 @@
 This is the link for the Google Colaboratory 
+1. Decison Tree : https://colab.research.google.com/drive/1RQiGLXSRaXjpIk8u3xb7Nz_rlO-fWOJd?usp=sharing
