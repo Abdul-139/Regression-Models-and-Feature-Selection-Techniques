@@ -1,0 +1,2 @@
+1. Linear Regression Practical Example : https://colab.research.google.com/drive/14GtCy1kr-7710rHlGSK0YCT7-uY0wwFU?usp=sharing
+2. Sklearn - Dummies and VIF - Exercise Solution : https://colab.research.google.com/drive/1lMOCwBTo_dVPv9v_Vao6KMZckHR_ATsJ?usp=sharing
