@@ -1,0 +1,3 @@
+This is the link for the Google Colaboratory 
+1. Polynomial Regression with selected dataset(drop) : https://colab.research.google.com/drive/1Yt8z9E4oA7PU8FQUbzh3EU6nGTU54pju?usp=sharing
+2. Polynomial Regression with full dataset(no drop) : https://colab.research.google.com/drive/1yk0Jip4LPMGyrnSGRpBMr06G7qgVgMhU?usp=sharing
